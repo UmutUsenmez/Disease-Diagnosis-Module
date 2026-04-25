@@ -32,7 +32,7 @@ Model, karmaşık tarım ortamlarındaki yaprak verileriyle eğitilmiş olup son
 
 ## 🧠 Katman 2: Makine Öğrenmesi ile Risk Analizi (Decision Engine)
 YOLOv11'in sadece tespit yapması "otonom müdahale" için yeterli değildir. Bu aşamada sisteme bir **Lineer Regresyon (Linear Regression)** modeli entegre edilmiştir. 
-* **MAE (Ortalama Mutlak Hata):** **4.65**
+* **MAE (Ortalama Mutlak Hata):** **4.34**
 * **R^2 Skoru :** **0.942 (%94.2)**
 
 
